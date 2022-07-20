@@ -6,18 +6,6 @@ export default StyleSheet.create({
     alignItems: "center",
     backgroundColor: "#e6e4e3",
   },
-  input: {
-    height: 68,
-    borderRadius: 5,
-    overflow: "hidden",
-    backgroundColor: "white",
-    marginTop: 10,
-    marginBottom: 10,
-    marginLeft: 30,
-    marginRight: 30,
-    paddingLeft: 16,
-    fontSize: 20,
-  },
   button: {
     backgroundColor: "#19124d",
     marginLeft: 30,
