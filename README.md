@@ -1,1 +1,2 @@
-# scan
+# Scan
+![Screenshot](screenshot.jpg)
